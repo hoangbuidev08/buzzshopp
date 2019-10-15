@@ -28,7 +28,7 @@
     <div class="header-middle sticky-header">
         <div class="container">
             <div class="header-left">
-                <a href="index-2.html" class="logo">
+                <a href="index" class="logo">
                     <img src="{{asset('')}}assets/images/logo.png" alt="Buzz Shop Logo">
                 </a>
             </div><!-- End .header-left -->
@@ -61,9 +61,9 @@
                 <div class="row header-row header-row-bottom">
                     <nav class="main-nav">
                         <ul class="menu sf-arrows">
-                            <li class="active"><a href="index-2.html">Trang Chủ</a></li>
+                            <li class="active"><a href="index">Trang Chủ</a></li>
                             <li>
-                                <a href="category.html" class="sf-with-ul">Sản Phẩm</a>
+                                <a href="categories" class="sf-with-ul">Sản Phẩm</a>
                                 <div class="megamenu megamenu-fixed-width">
                                     <div class="row">
                                         <div class="col-lg-8">
@@ -110,9 +110,9 @@
                                     </div>
                                 </div><!-- End .megamenu -->
                             </li>
-                            <li><a href="#" target="_blank">Giới Thiệu</a></li>
-                            <li><a href="#" target="_blank">Liên Hệ</a></li>
-                            <li><a href="#" target="_blank">Tin Tức</a></li>
+                            <li><a href="about" >Giới Thiệu</a></li>
+                            <li><a href="#" >Liên Hệ</a></li>
+                            <li><a href="#">Tin Tức</a></li>
                         </ul>
                     </nav>
 
