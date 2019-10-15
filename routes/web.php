@@ -14,11 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('index', [
+Route::get('/index', [
     'as'=>'trang-chu',
     'uses'=>'PageController@getIndex'
 ]);
-Route::get('about',[
+Route::get('/categories',[
+    'as'=>'loai-san-pham',
+    'uses'=>'PageController@getCategory'
+]);
+Route::get('/about',[
     'as'=>'gioi-thieu',
     'uses'=>'PageController@getAbout'
 ]);
