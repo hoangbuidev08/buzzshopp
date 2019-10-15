@@ -16,4 +16,10 @@ class PageController extends Controller
     public function getCategory(){
         return view('page.categories');
     }
+    public function getContact(){
+        return view('page.contact');
+    }
+    public function getNew(){
+        return view('page.news');
+    }
 }

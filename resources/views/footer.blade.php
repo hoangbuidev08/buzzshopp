@@ -219,7 +219,9 @@
 <script src="{{asset('')}}assets/js/plugins.min.js"></script>
 
 <!-- Main JS File -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDc3LRykbLB-y8MuomRUIY0qH5S6xgBLX4"></script>
 <script src="{{asset('')}}assets/js/main.min.js"></script>
+{{-- <script src="{{asset('')}}assets/js/map.js"></script> --}}
 </body>
 </html>
 

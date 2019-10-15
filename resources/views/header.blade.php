@@ -24,7 +24,7 @@
 </head>
 <body>
     <div class="page-wrapper">
-<header class="header header-transparent">
+    <header class="header header-transparent">
     <div class="header-middle sticky-header">
         <div class="container">
             <div class="header-left">
@@ -39,9 +39,6 @@
                         <a href="#">Links</a>
                         <div class="header-menu">
                             <ul>
-                                <li><a href="my-account.html">TÀI KHOẢN </a></li>
-                                <li><a href="#">ƯU ĐÃI HẰNG NGÀY</a></li>
-                                <li><a href="#">DANH SÁCH YÊU THÍCH </a></li>
                                 <li><a href="#" class="login-link">ĐĂNG KÝ</a></li>
                                 <li><a href="#" class="login-link">ĐĂNG NHẬP</a></li>
                             </ul>
@@ -111,8 +108,8 @@
                                 </div><!-- End .megamenu -->
                             </li>
                             <li><a href="about" >Giới Thiệu</a></li>
-                            <li><a href="#" >Liên Hệ</a></li>
-                            <li><a href="#">Tin Tức</a></li>
+                            <li><a href="contact" >Liên Hệ</a></li>
+                            <li><a href="news">Tin Tức</a></li>
                         </ul>
                     </nav>
 
