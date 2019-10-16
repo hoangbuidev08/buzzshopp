@@ -1,16 +1,16 @@
 @extends('master')
 @section('content')
 <main class="main">
-        <div class="page-header align-items-end" style="background-image: url(assets/images/page-header-bg-2.jpg)">
+        <div class="page-header" style="background-image: url(assets/images/page-header-bg.jpg)">
             <div class="container">
-                <img src="assets/images/page-header-img.png" alt="image">
+                <h1>About Us</h1>
             </div><!-- End .container -->
         </div><!-- End .page-header -->
 
         <nav aria-label="breadcrumb" class="breadcrumb-nav mb-4">
             <div class="container">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Men</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Accessories</li>
                 </ol>
